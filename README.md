@@ -12,11 +12,15 @@ conda install -c bioconda iqtree
 
 
 mkdir final_project
+
+
 cd final_project
 
 
 
 nano #paste all of the data from NCBI into this file
+
+
 ctrl +x #save this file as e.coli
 
 nano 
