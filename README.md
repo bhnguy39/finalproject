@@ -1,6 +1,8 @@
 # finalproject
 conda create --prefix /project/stuckert/bhnguy39/Absolute/path/ofa/directory/in/your/file/structure/final_project
 
+
+
 conda activate /project/stuckert/bhnguy39/Absolute/path/ofa/directory/in/your/file/structure/final_project
 
 conda install -c bioconda mafft
