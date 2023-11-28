@@ -59,7 +59,7 @@ ctrl +x #save this file as tree.fa
 iqtree -s project.fa -m GTR -bb 1000 -pre tree.fa 
 
 
-cat tree.fa.contree #copy everything 
+cat tree.fa.contree #copy everything
 
 #in R
 
