@@ -38,7 +38,7 @@ mafft --auto e.coli > project.fa
 
 ctrl +x #save this file as proj
 
-mafft --auto e.coli > project.fa #multiple genes alignment
+mafft --auto e.coli > project.fa 
 
 
 
